@@ -1,0 +1,22 @@
+{
+    "short_name": "App Name",
+    "name": "App Name",
+    "icons": [
+      {
+        "src": "/assets/app/icon/ShinoX192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/assets/app/icon/ShinoX512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "/",
+    "background_color": "#fff",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#fff",
+    "orientation": "portrait"
+  }
