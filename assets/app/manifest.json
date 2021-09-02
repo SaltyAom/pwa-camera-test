@@ -1,6 +1,6 @@
 {
-    "short_name": "App Name",
-    "name": "App Name",
+    "short_name": "Camera",
+    "name": "Camera Test",
     "icons": [
       {
         "src": "/assets/app/icon/ShinoX192.png",
